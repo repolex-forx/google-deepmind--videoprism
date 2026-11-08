@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/videoprism/commit/4f831e332b80d6e77bdd43882206f23aba2a67a7",
       "git:hexsha": "4f831e332b80d6e77bdd43882206f23aba2a67a7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
