@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "videoprism",
+  "versions": [
+    {
+      "commit": "4f831e332b80d6e77bdd43882206f23aba2a67a7",
+      "parsed_at": "2026-11-08T08:57:15.168103+00:00",
+      "filetree": "filetree/4f831e332b80d6e77bdd43882206f23aba2a67a7.nq.gz",
+      "blobs": [
+        "blob/26d4f92e983d3b3b31f336b1c84b3f58c74edb48.nq.gz",
+        "blob/20c1a06db1fa8bc41cf7ffd9edf79862fc3d82e9.nq.gz",
+        "blob/3095027071b5c8f52aec866f81da7fec4c5222a3.nq.gz",
+        "blob/19f131c2f6bb7b0c062adb69a2a00828fb89f552.nq.gz",
+        "blob/cbd79006eb22b244e1bd2d45a4da5df689431a13.nq.gz",
+        "blob/bc8a13ee97c932174c26963d6ae579877a06b63e.nq.gz",
+        "blob/f756e2e6a585cd0af379648f0bcc85bbb2370d1c.nq.gz",
+        "blob/4ef93685f160532da9857b1cdd05bbfa52752951.nq.gz",
+        "blob/4e985fbe0daa981c85ee6c8ca1da73b89489f57a.nq.gz",
+        "blob/7b5cc74d26e703f27a95827316711fce6b2bd4e7.nq.gz",
+        "blob/aa6167a640e8fb61500329d1e2e7ac5300fffc67.nq.gz",
+        "blob/e05c422b7d0e86678fb4b06a807811467dd57b4f.nq.gz",
+        "blob/102f68d1604152dac9ccdff2e0253ccf4bae6d64.nq.gz",
+        "blob/4028a8aeb53ce7cffae369c83e8ddf773eb09be3.nq.gz",
+        "blob/d5fd4f5732d29a630cf429683a6c203ad0dfad26.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/7a4a3ea2424c09fbe48d455aed1eaa94d9124835.nq.gz",
+        "blob/439e91a91df4fb1d41645c97ddb3ce7efe984e59.nq.gz",
+        "blob/167e03f0b80cb33b5aecc67011c81ce444516af3.nq.gz",
+        "blob/f29b8dccc7e402bdd597f317eb1947fcae7f697d.nq.gz",
+        "blob/c64def83fbfa1850ce62fb0b04c39886826c571d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
